@@ -1,6 +1,6 @@
 # ISvitlana
 
-My first project Wordpress
+My first project Wordpress. It's my POrtfolio
 
 plugins:
 
